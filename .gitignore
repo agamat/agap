@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Checkpoints
+*pyc
+**/*.ipynb_checkpoints/
+
+# data
+#data/*
+
+# python test
+.coverage
+.mypy_cache
+.pytest_cache/
+.tox
